@@ -1,0 +1,10 @@
+/* write your css here */
+/* src/App.css or src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+ h1 {
+  font-family: 'Noto Sans', sans-serif;
+} 
+body{
+    /* background-color: rgb(221, 224, 227); */
+}
